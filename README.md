@@ -73,3 +73,5 @@ se usar Drive). O .exe não consegue se auto-atualizar: para atualizar o yt-dlp,
 - Se algum desses arquivos já foi compartilhado: revogue o OAuth Client no Google Cloud, apague o
   `gdrive_token.json` e **troque a senha do MEGA**.
 # Video-Uploader
+
+![alt text](image.png)
