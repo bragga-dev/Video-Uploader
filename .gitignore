@@ -8,3 +8,6 @@ downloads/
 build/
 dist/
 *.spec
+
+queue.db
+.work/
