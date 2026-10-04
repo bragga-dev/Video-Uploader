@@ -1,0 +1,13 @@
+{
+  "dest": "local",
+  "quality": "Melhor disponível",
+  "folder_id": "",
+  "credentials_path": "gdrive_credentials.json",
+  "keep_local": false,
+  "local_dir": "downloads",
+  "playlist": false,
+  "cookies_browser": "Nenhum",
+  "cookies_file": "",
+  "mega_email": "",
+  "mega_folder": ""
+}

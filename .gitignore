@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+config.json
+gdrive_token.json
+gdrive_credentials.json
+cookies*.txt
+downloads/
+build/
+dist/
+*.spec
